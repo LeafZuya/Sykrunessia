@@ -167,12 +167,12 @@ footer{margin-top:20px;text-align:center;color:var(--muted);font-size:14px}
       <h4 style="margin:0">Pemimpin & Profil</h4>
       <div class="leaders" style="margin-top:8px">
         <div class="leader">
-          <img src="https://picsum.photos/seed/leaf/400/300" alt="president">
+          <img src="LeafZuya.jpg" width="250" height="350">
           <strong>Manipura LeafZuya Sukami</strong>
           <div style="color:var(--muted);font-size:13px">Presiden</div>
         </div>
         <div class="leader">
-          <img src="https://picsum.photos/seed/shiro/400/300" alt="vp">
+          <img src="Shiroko.jpg" width="250" height="350">
           <strong>Sunaookami Shiroko</strong>
           <div style="color:var(--muted);font-size:13px">Wakil Presiden</div>
         </div>
